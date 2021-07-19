@@ -5,6 +5,7 @@
 1. Read raw person & address data from the supplied CSV file
 
 2. Create a module / interface that:
+
   a. Receives an input street address (e.g “400 West 24th Street, New York, NY”). Note that
      the supplied address of course does not have to be one of the addresses already in the
      sample data.
